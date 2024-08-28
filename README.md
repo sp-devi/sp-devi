@@ -11,3 +11,6 @@
 sp-devi/sp-devi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<a href="https://app.daily.dev/apldante"><img src="https://api.daily.dev/devcards/v2/SjO7xwhueCNOBgpSvYtbe.png?type=default&r=pmi" width="356" alt="Allan Paul Dante's Dev Card"/></a>
